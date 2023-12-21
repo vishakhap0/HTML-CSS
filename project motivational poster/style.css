@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+  }
+   
+
+.zero{
+    margin-top: 2cm;
+    margin-left: 25px;
+    text-align: center;
+
+}
+.three{
+    font-family:fuggle;
+    color: #074a6e;
+}
+.one{
+    color: #451952;
+}
+
+.three{
+    color: #451952;
+}
+.ass{
+    border:dashed white;
+    padding:20px;
+}
+.abc{
+    color:#451952;
+}
+.h1{
+    font-family: Croissant One;
+}
